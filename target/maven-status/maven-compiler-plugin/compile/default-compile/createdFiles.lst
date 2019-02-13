@@ -1,0 +1,12 @@
+com/invesko/ask/service/AnswerServiceImpl.class
+com/invesko/ask/service/QuestionService.class
+com/invesko/ask/AskApplication.class
+com/invesko/ask/service/QuestionServiceImpl.class
+com/invesko/ask/model/Questions.class
+com/invesko/ask/controller/AskApiController.class
+com/invesko/ask/configuration/SwaggerConfig.class
+com/invesko/ask/repositories/AnswerRepository.class
+com/invesko/ask/configuration/JpaConfiguration.class
+com/invesko/ask/model/Answers.class
+com/invesko/ask/service/AnswerService.class
+com/invesko/ask/repositories/QuestionRepository.class

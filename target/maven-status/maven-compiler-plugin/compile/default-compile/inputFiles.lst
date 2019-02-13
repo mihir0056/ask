@@ -1,0 +1,12 @@
+/mihir/ask/src/main/java/com/invesko/ask/repositories/AnswerRepository.java
+/mihir/ask/src/main/java/com/invesko/ask/service/QuestionServiceImpl.java
+/mihir/ask/src/main/java/com/invesko/ask/service/AnswerService.java
+/mihir/ask/src/main/java/com/invesko/ask/service/QuestionService.java
+/mihir/ask/src/main/java/com/invesko/ask/repositories/QuestionRepository.java
+/mihir/ask/src/main/java/com/invesko/ask/configuration/SwaggerConfig.java
+/mihir/ask/src/main/java/com/invesko/ask/model/Answers.java
+/mihir/ask/src/main/java/com/invesko/ask/controller/AskApiController.java
+/mihir/ask/src/main/java/com/invesko/ask/configuration/JpaConfiguration.java
+/mihir/ask/src/main/java/com/invesko/ask/model/Questions.java
+/mihir/ask/src/main/java/com/invesko/ask/AskApplication.java
+/mihir/ask/src/main/java/com/invesko/ask/service/AnswerServiceImpl.java
